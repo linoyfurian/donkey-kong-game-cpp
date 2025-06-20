@@ -1,0 +1,15 @@
+
+Step File Format:
+First Line: The random seed used for the game.
+Second Line: The total number of lines in the file
+Following Lines: Each line contains:
+The movement key chosen by the user.
+The iteration number in which the move was made.
+
+Result File Format:
+First Line: The total number of lines in the file
+Following Lines: Each line contains:
+The iteration number.
+A status indicator for that iteration:
+0 →  loss
+1 → victory

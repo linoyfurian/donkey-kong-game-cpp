@@ -1,0 +1,21 @@
+# Build and debug folders
+Debug/
+Release/
+x64/
+
+# VS project files
+*.obj
+*.exe
+*.pdb
+*.idb
+*.ilk
+*.log
+*.tlog
+
+# VS user-specific files
+*.suo
+*.user
+*.VC.db
+
+# VS hidden folder
+.vs/
